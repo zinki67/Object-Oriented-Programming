@@ -1,2 +1,3 @@
 # Object-Oriented-Programming
-Name: Jordan GorhamS
+Name: Jordan Gorhams
+yeriutgeg
